@@ -57,7 +57,9 @@ function setStaticImages() {
   if (heroFeature) {
     heroFeature.src = HERO_FEATURE_IMAGE;
     heroFeature.alt =
-      lang === 'en' ? 'Fresh pastries and bread at Onat Bakery' : 'مخبوزات ومعجنات طازجة في أونات بيكري';
+      lang === 'en'
+        ? 'Onat Bakery — morning is sweeter with our croissant'
+        : 'أونات بيكري — الصبح يحلي معاه';
   }
   const aboutMain = $('#aboutImgMain');
   const aboutFloat = $('#aboutImgFloat');

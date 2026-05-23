@@ -25,7 +25,7 @@ export const ABOUT_IMAGES = {
 
 export const HERO_BG_IMAGE = img('sections/hero-bg.jpg');
 
-export const HERO_FEATURE_IMAGE = img('sections/hero-feature.jpg');
+export const HERO_FEATURE_IMAGE = img('sections/hero-feature.png');
 
 /** Why Onat section — images/facebook/img1–4.png */
 export const WHY_ONAT_IMAGES = {
