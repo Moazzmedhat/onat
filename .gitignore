@@ -1,0 +1,4 @@
+js/shopify.config.js
+.DS_Store
+Thumbs.db
+node_modules/

@@ -1,0 +1,87 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Price,Variant Inventory Qty,Variant Inventory Policy,Variant Requires Shipping,Variant Taxable,Status
+bisc-001,"Ginger Biscuits","<p>بسكوت جنزبيل</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-001,230,100,deny,TRUE,TRUE,active
+bisc-002,"Luxe Anise Biscuits","<p>بسكوت لوكس ينسون</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-002,250,100,deny,TRUE,TRUE,active
+bisc-003,"Sugar Cinnamon Palmier","<p>بلمي سكر وقرفه</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-003,230,100,deny,TRUE,TRUE,active
+bisc-004,"Brownies","<p>برونيز</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-004,240,100,deny,TRUE,TRUE,active
+bisc-005,"Chocolate Pistachio Biscuits","<p>بسكوت شوكلاتة فسدق</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-005,270,100,deny,TRUE,TRUE,active
+bisc-006,"Lotus Biscuits","<p>بسكوت لوتس</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-006,220,100,deny,TRUE,TRUE,active
+bisc-007,"Pistachio Biscuits","<p>بسكوت فسدق</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-007,250,100,deny,TRUE,TRUE,active
+bisc-008,"Lotus Cookies","<p>كوكيز لوتس</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-008,230,100,deny,TRUE,TRUE,active
+bisc-009,"Kinder Cookies","<p>كوكيز كندر</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-009,230,100,deny,TRUE,TRUE,active
+bisc-010,"Mixed Biscuits","<p>بسكوت مكس</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-010,240,100,deny,TRUE,TRUE,active
+bisc-011,"Ammonia Biscuits","<p>بسكويت نشادر</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-011,230,100,deny,TRUE,TRUE,active
+bisc-012,"Oat Cookies","<p>كوكيز شوفان</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-012,230,100,deny,TRUE,TRUE,active
+bisc-013,"Syrian Barazek","<p>برازق سوري</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-013,210,100,deny,TRUE,TRUE,active
+bisc-014,"Coconut Shakalama","<p>شكلمه جوزهند</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-014,280,100,deny,TRUE,TRUE,active
+bisc-015,"Italian Almond Cookies","<p>كوكيز ايطالي بالوز</p>",Onat Bakery,biscuits,bakery,onat,TRUE,Title,Default Title,bisc-015,270,100,deny,TRUE,TRUE,active
+diet-001,"Diet Chia Slices","<p>شرائح دايت بزور الشيا</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-001,160,100,deny,TRUE,TRUE,active
+diet-002,"Diet Oat Bread","<p>عيش شوفان دايت</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-002,3.5,100,deny,TRUE,TRUE,active
+diet-003,"Barley Bread","<p>عيش شعير</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-003,5,100,deny,TRUE,TRUE,active
+diet-004,"Diet Croissant","<p>كرواسون دايت</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-004,17,100,deny,TRUE,TRUE,active
+diet-005,"Brown Toast","<p>توست سن</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-005,140,100,deny,TRUE,TRUE,active
+diet-006,"Diet Mille-feuille","<p>ميلفي دايت</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-006,170,100,deny,TRUE,TRUE,active
+diet-007,"Sesame Fino Roll","<p>فينو بالسمسم</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-007,2.5,100,deny,TRUE,TRUE,active
+diet-008,"Ciabatta","<p>عيش شباطه</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-008,18,100,deny,TRUE,TRUE,active
+diet-009,"Brown Baguette","<p>باجت براون</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-009,15,100,deny,TRUE,TRUE,active
+diet-010,"Shami Bread","<p>عيش شامي</p>",Onat Bakery,diet-bread,bakery,onat,TRUE,Title,Default Title,diet-010,3,100,deny,TRUE,TRUE,active
+pat-001,"Cheese Pâté","<p>باتيه جبنه</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-001,13,100,deny,TRUE,TRUE,active
+pat-002,"Chocolate Pâté","<p>باتيه شيكولاته</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-002,17,100,deny,TRUE,TRUE,active
+pat-003,"Plain Croissant","<p>كرواسون ساده</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-003,15,100,deny,TRUE,TRUE,active
+pat-004,"Romi Cheese Croissant","<p>كرواسون جبنه رومي</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-004,20,100,deny,TRUE,TRUE,active
+pat-005,"Chocolate Croissant","<p>كرواسون شيكولاته</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-005,18,100,deny,TRUE,TRUE,active
+pat-006,"Zaatar Croissant","<p>كرواسون زعتر</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-006,18,100,deny,TRUE,TRUE,active
+pat-007,"Almond Croissant","<p>كرواسون لوز</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-007,25,100,deny,TRUE,TRUE,active
+pat-008,"Nutella Croissant","<p>كرواسون نوتيلا</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-008,30,100,deny,TRUE,TRUE,active
+pat-009,"Turkey Croissant","<p>كرواسون تركي</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-009,40,100,deny,TRUE,TRUE,active
+pat-010,"Roast Beef Croissant","<p>كرواسون روزبيف</p>",Onat Bakery,patisserie,bakery,onat,TRUE,Title,Default Title,pat-010,60,100,deny,TRUE,TRUE,active
+piz-001,"Vegetable Pizza","<p>بيتزا خضار</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-001,17,100,deny,TRUE,TRUE,active
+piz-002,"Sausage & Cheese Pizza","<p>بيتزا سوسيس وجبنه</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-002,22,100,deny,TRUE,TRUE,active
+piz-003,"Milano Pizza","<p>بيتزا ميلانو</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-003,35,100,deny,TRUE,TRUE,active
+piz-004,"Pastrami Pizza","<p>بيتزا بسطرمه</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-004,30,100,deny,TRUE,TRUE,active
+piz-005,"Cheese Zaatar Manakish","<p>مناقيش جبنه وزعتر</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-005,180,100,deny,TRUE,TRUE,active
+piz-006,"Spinach Manakish","<p>مناقيش سبانخ</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-006,180,100,deny,TRUE,TRUE,active
+piz-007,"Cheese Witch","<p>ويتش جبنه</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-007,180,100,deny,TRUE,TRUE,active
+piz-008,"Pastrami Manakish","<p>مناقيش بسطرمه</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-008,290,100,deny,TRUE,TRUE,active
+piz-009,"Salé","<p>ساليزون</p>",Onat Bakery,pizza-savory,bakery,onat,TRUE,Title,Default Title,piz-009,230,100,deny,TRUE,TRUE,active
+rusk-001,"Sesame Rusks","<p>بقسماط سمسم</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-001,140,100,deny,TRUE,TRUE,active
+rusk-002,"White Toast","<p>توست أبيض</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-002,140,100,deny,TRUE,TRUE,active
+rusk-003,"Cheese Slices","<p>شرائح جبنه</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-003,170,100,deny,TRUE,TRUE,active
+rusk-004,"Salt Cumin Baton Salé","<p>باتون ساليه ملح وكمون</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-004,160,100,deny,TRUE,TRUE,active
+rusk-005,"Small Feteer","<p>فطير صغير</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-005,14,100,deny,TRUE,TRUE,active
+rusk-006,"Feteer with Ghee","<p>فطير سمن بلدي</p>",Onat Bakery,rusks-feteer,bakery,onat,TRUE,Title,Default Title,rusk-006,120,100,deny,TRUE,TRUE,active
+snk-001,"Chocolate Wafer","<p>ويفر شيكولاتة</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-001,180,100,deny,TRUE,TRUE,active
+snk-002,"Strawberry Wafer","<p>ويفر فراولة</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-002,180,100,deny,TRUE,TRUE,active
+snk-003,"Breadzo Cheese","<p>بريدزو جبنه</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-003,170,100,deny,TRUE,TRUE,active
+snk-004,"Spanish Corn Cheese","<p>ذرة اسباني جبنه</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-004,250,100,deny,TRUE,TRUE,active
+snk-005,"Peanut Chocolate","<p>سوداني شيكولاته</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-005,220,100,deny,TRUE,TRUE,active
+snk-006,"Crispy Chocolate","<p>كرسبي شوكلت</p>",Onat Bakery,snacks,bakery,onat,TRUE,Title,Default Title,snk-006,170,100,deny,TRUE,TRUE,active
+sw-001,"Plain Kahk","<p>كعك ساده</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-001,270,100,deny,TRUE,TRUE,active
+sw-002,"Nut Kahk","<p>كعك مكسرات</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-002,310,100,deny,TRUE,TRUE,active
+sw-003,"Nutella Kahk","<p>كعك نوتيلا</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-003,270,100,deny,TRUE,TRUE,active
+sw-004,"Kunafa Bracelets","<p>كنافة اساور</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-004,320,100,deny,TRUE,TRUE,active
+sw-005,"Basbousa","<p>بسبوسة</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-005,220,100,deny,TRUE,TRUE,active
+sw-006,"Cheesecake","<p>تشيز كيك</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-006,40,100,deny,TRUE,TRUE,active
+sw-007,"Red Velvet","<p>ريد فيلفيت</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-007,40,100,deny,TRUE,TRUE,active
+sw-008,"Molten Cake","<p>مولتن كيك</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-008,55,100,deny,TRUE,TRUE,active
+sw-009,"Om Ali","<p>ام علي</p>",Onat Bakery,kahk-sweets,bakery,onat,TRUE,Title,Default Title,sw-009,40,100,deny,TRUE,TRUE,active
+pas-001,"Cheese Nigella Borek","<p>بوريك جبنه وحبة بركه</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-001,165,100,deny,TRUE,TRUE,active
+pas-002,"Date Manin","<p>منين عجوه</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-002,175,100,deny,TRUE,TRUE,active
+pas-003,"Plain Manin with Ghee","<p>منين ساده سمنه بلدي</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-003,280,100,deny,TRUE,TRUE,active
+pas-004,"Petit Four","<p>بيتي فور</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-004,330,100,deny,TRUE,TRUE,active
+pas-005,"Kinder Sablé","<p>سابليه كيندر</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-005,330,100,deny,TRUE,TRUE,active
+pas-006,"Ghorayeba","<p>غريبه</p>",Onat Bakery,pastries,bakery,onat,TRUE,Title,Default Title,pas-006,300,100,deny,TRUE,TRUE,active
+ecl-001,"Kinder Eclair","<p>اكلير كيندر</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-001,35,100,deny,TRUE,TRUE,active
+ecl-002,"Lotus Eclair","<p>اكلير لوتس</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-002,35,100,deny,TRUE,TRUE,active
+ecl-003,"Cinnabon","<p>سينابون</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-003,30,100,deny,TRUE,TRUE,active
+ecl-004,"Nutella Tart","<p>تارت نوتيلا</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-004,35,100,deny,TRUE,TRUE,active
+ecl-005,"Apple Pie","<p>ابل باي</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-005,35,100,deny,TRUE,TRUE,active
+ecl-006,"Fruit Danish","<p>دانش فواكة</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-006,30,100,deny,TRUE,TRUE,active
+ecl-007,"Mille-feuille","<p>ملفي</p>",Onat Bakery,eclairs,bakery,onat,TRUE,Title,Default Title,ecl-007,35,100,deny,TRUE,TRUE,active
+cak-001,"Chocolate Donut","<p>دونات شيكولاته</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-001,30,100,deny,TRUE,TRUE,active
+cak-002,"Lotus Donut","<p>دونات لوتس</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-002,30,100,deny,TRUE,TRUE,active
+cak-003,"Kinder Donut","<p>دونات كيندر</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-003,30,100,deny,TRUE,TRUE,active
+cak-004,"English Chocolate Cake","<p>انجلش كيك شيكولاته</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-004,85,100,deny,TRUE,TRUE,active
+cak-005,"Chocolate Cake","<p>كيك شيكولاته</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-005,170,100,deny,TRUE,TRUE,active
+cak-006,"Strawberry Cupcake","<p>كب كيك فراولة</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-006,35,100,deny,TRUE,TRUE,active
+cak-007,"Nutella Cake","<p>كيك نوتيلا</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-007,35,100,deny,TRUE,TRUE,active
+cak-008,"Oreo Cake","<p>كيك اوريو</p>",Onat Bakery,cakes-donuts,bakery,onat,TRUE,Title,Default Title,cak-008,35,100,deny,TRUE,TRUE,active

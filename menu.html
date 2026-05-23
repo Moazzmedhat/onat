@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="منيو أونات بيكري الكامل — جميع الأصناف والأسعار." />
+  <title>المنيو | أونات بيكري</title>
+  <link rel="icon" href="images/logo.jpg" type="image/jpeg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/menu.css" />
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="header scrolled" id="header">
+    <nav class="nav container">
+      <a href="index.html" class="nav__logo">
+        <img src="images/logo.jpg" alt="Onat Bakery" width="48" height="48" />
+        <span class="nav__brand">
+          <strong data-i18n="brand">أونات بيكري</strong>
+          <small data-i18n="tagline">أصل الخبز المصري</small>
+        </span>
+      </a>
+      <ul class="nav__links">
+        <li><a href="menu.html" class="nav__link--active" data-i18n="nav-menu">المنيو</a></li>
+        <li><a href="index.html#about" data-i18n="nav-about">عنّا</a></li>
+        <li><a href="index.html#contact" data-i18n="nav-contact">تواصل</a></li>
+      </ul>
+      <div class="nav__actions">
+        <button type="button" class="btn btn--ghost lang-toggle" id="langToggle" aria-label="Switch language">EN</button>
+        <button type="button" class="btn btn--cart" id="cartOpen" aria-label="Open cart">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="9" cy="21" r="1"/>
+            <circle cx="20" cy="21" r="1"/>
+            <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+          </svg>
+          <span class="cart-count" id="cartCount">0</span>
+        </button>
+        <button type="button" class="nav__burger" id="navBurger" aria-label="Menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="menu-page">
+    <section class="menu-page__hero">
+      <div class="container">
+        <p class="section__label" data-i18n="nav-menu">المنيو</p>
+        <h1 data-i18n="menu-page-title">قائمة الطعام</h1>
+        <p data-i18n="menu-page-sub">جميع الأصناف والأسعار — محدّثة من منيو أونات بيكري</p>
+      </div>
+    </section>
+
+    <div class="menu-page__toolbar">
+      <div class="container menu-page__toolbar-inner">
+        <label data-i18n="menu-jump">انتقل إلى</label>
+        <nav class="menu-page__chips" id="menuChips" aria-label="Menu categories"></nav>
+      </div>
+    </div>
+
+    <div class="container menu-page__body" id="menuSections"></div>
+
+    <section class="menu-page__cta">
+      <div class="container">
+        <h2 data-i18n="menu-cta-title">جاهز للطلب؟</h2>
+        <p data-i18n="menu-cta-sub">راسلنا على إنستغرام بقائمة أصنافك المفضّلة</p>
+        <div class="menu-page__cta-actions">
+          <a href="https://www.instagram.com/onatbakery/" target="_blank" rel="noopener" class="btn btn--primary" data-i18n="menu-cta-instagram">اطلب عبر إنستغرام</a>
+          <a href="index.html" class="btn btn--outline" data-i18n="menu-back-home">الرئيسية</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__grid">
+      <div class="footer__brand">
+        <img src="images/logo.jpg" alt="Onat Bakery" width="48" height="48" />
+        <div>
+          <strong data-i18n="brand">أونات بيكري</strong>
+          <p data-i18n="footer-tagline">أصل الخبز المصري — مخبوزات يومية بجودة ثابتة</p>
+        </div>
+      </div>
+      <nav class="footer__nav" aria-label="Footer">
+        <a href="menu.html" data-i18n="nav-menu">المنيو</a>
+        <a href="index.html" data-i18n="menu-back-home">الرئيسية</a>
+        <a href="index.html#about" data-i18n="nav-about">عنّا</a>
+        <a href="index.html#contact" data-i18n="nav-contact">تواصل</a>
+      </nav>
+      <p class="footer__copy">© <span id="year"></span> Onat Bakery. <span data-i18n="footer">جميع الحقوق محفوظة</span></p>
+    </div>
+  </footer>
+
+  <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+    <div class="cart-drawer__overlay" id="cartOverlay"></div>
+    <div class="cart-drawer__panel">
+      <header class="cart-drawer__head">
+        <h2 data-i18n="cart-title">سلة المشتريات</h2>
+        <button type="button" class="cart-drawer__close" id="cartClose" aria-label="Close">&times;</button>
+      </header>
+      <div class="cart-drawer__body" id="cartItems"></div>
+      <footer class="cart-drawer__foot">
+        <div class="cart-total">
+          <span data-i18n="cart-total">المجموع</span>
+          <strong id="cartTotal">0 EGP</strong>
+        </div>
+        <button type="button" class="btn btn--primary btn--block" id="checkoutBtn" data-i18n="cart-checkout">إتمام الطلب</button>
+        <p class="cart-note" id="cartNote" data-i18n="cart-note">اربط متجر Shopify من الإعدادات لتفعيل الدفع</p>
+      </footer>
+    </div>
+  </aside>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script type="module" src="js/menu.js"></script>
+</body>
+</html>
